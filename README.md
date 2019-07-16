@@ -5,8 +5,8 @@
 <br>XDA-Developers: Battlehero
 
 ## How's this done?
-<br> It adds the following to the build.prop : net.tethering.noprovisioning=true
-<br> Runs : settings put global tether_dun_required 0
+<br> It adds the following to the build.prop: <code> net.tethering.noprovisioning=true </code>
+<br> Runs: <code> settings put global tether_dun_required 0 </code>
 
 ## Changelog
 <br>16/07/2019 Initial commit.
